@@ -1,0 +1,20 @@
+Author	:	Chirag R. Agarwal and Vipul Pandey
+Email	:	chirag.agarwalr@gmail.com
+Topic	:	Implementation of different Optimisation and Graph algorithms in MATLAB
+Site	:	http://agarwalchirag.wordpress.com
+
+This project aims at creating a Grapical User Interface for many Optimisation and Graph algorithms in MATLAB.
+The following algorithms have been included :
+
+1)	Primal Simplex
+2)	Big M Method Simplex
+3)	Two Phase Method Simplex
+4)	Dual Simplex
+5)	Generalized Simplex
+6)	Floyd Warshall Algorithm
+7)	Kruskal's Algorithm
+8)	Print a Complete Graph
+9)	Print a graph from a given Adjacency Matrix
+10)	Fractional Knapsack Algorithm
+11)	Task Scheduling Algorithm
+
